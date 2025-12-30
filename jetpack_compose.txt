@@ -1,0 +1,86 @@
+**Jetpack Compose** (often people casually say “Jet Compose”) is **Android’s modern UI toolkit**.
+
+In simple words 👇
+👉 It’s a **new way to build Android app screens using Kotlin code**, instead of XML layouts.
+
+---
+
+### Old way (XML + Java/Kotlin)
+
+* Write UI in **XML**
+* Write logic in **Activity/Fragment**
+* Connect them with `findViewById`
+* More boilerplate, harder to maintain 😵
+
+---
+
+### Jetpack Compose way
+
+* UI is written **directly in Kotlin**
+* UI automatically updates when data changes
+* Less code, more readable ✨
+
+Example:
+
+```kotlin
+@Composable
+fun Greeting(name: String) {
+    Text(text = "Hello $name")
+}
+```
+
+That’s it. No XML. No adapters. No `findViewById`.
+
+---
+
+### Key ideas of Jetpack Compose
+
+🔹 **Declarative UI**
+You *describe* what the UI should look like, not *how* to draw it.
+
+🔹 **@Composable functions**
+Special functions that create UI components.
+
+🔹 **State-driven**
+If data changes → UI updates automatically.
+
+🔹 **100% Kotlin**
+No XML files needed.
+
+---
+
+### Why Google introduced Jetpack Compose?
+
+* Faster UI development 🚀
+* Less boilerplate code
+* Easier animations
+* Better performance
+* Inspired by **React / Flutter / SwiftUI**
+
+---
+
+### Compare quickly
+
+| XML UI          | Jetpack Compose |
+| --------------- | --------------- |
+| XML + Kotlin    | Only Kotlin     |
+| findViewById    | No need         |
+| Hard animations | Easy            |
+| More files      | Cleaner         |
+
+---
+
+### Is Jetpack Compose replacing XML?
+
+✅ **Yes (gradually)**
+Google recommends Compose for **new apps**.
+
+---
+
+If you want, I can also explain:
+
+* Jetpack Compose vs Flutter
+* Basic Compose components (Row, Column, LazyColumn)
+* How to start Compose in Android Studio
+
+Just tell me 👍
