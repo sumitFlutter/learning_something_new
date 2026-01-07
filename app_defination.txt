@@ -1,0 +1,44 @@
+An **app** (short for **application**) is a **software program** designed to help users **perform a specific task** on a device like a **mobile phone, tablet, computer, or web browser**.
+
+### Simple definition
+
+👉 **An app is a tool made with software to do a particular job for the user.**
+
+### Common types of apps
+
+1. **Mobile Apps**
+
+   * Installed on smartphones
+   * Examples: WhatsApp, Instagram, Google Maps, PhonePe
+
+2. **Web Apps**
+
+   * Run in a web browser (no installation needed)
+   * Examples: Gmail, Google Docs, Amazon website
+
+3. **Desktop Apps**
+
+   * Installed on computers/laptops
+   * Examples: Microsoft Word, Photoshop, VLC Player
+
+### What apps can do
+
+* Send messages 📩
+* Make payments 💰
+* Watch videos 🎬
+* Learn (education apps) 📚
+* Book tickets ✈️
+* Manage business or work tasks 🧑‍💼
+
+### Example (easy)
+
+* **Calculator app** → helps you calculate numbers
+* **Bhagavad Gita Reader app** → helps users read and understand the Gita (like the one you’re building)
+
+If you want, I can also explain:
+
+* App vs Website
+* How apps are made
+* Types of apps (Android, iOS, Hybrid)
+
+Just tell me 👍
