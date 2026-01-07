@@ -1,0 +1,46 @@
+Here are the **full forms** and meanings of **IPA, AAB, and APK** 👇
+
+---
+
+### 📱 **APK**
+
+**Full form:** **Android Package Kit**
+➡️ It is the app file format used to install apps on **Android** devices.
+Example: `app-release.apk`
+
+---
+
+### 📦 **AAB**
+
+**Full form:** **Android App Bundle**
+➡️ It is the **official publishing format** for Android apps on the **Google Play Store**.
+Google Play converts AAB into optimized APKs for each device.
+
+Example: `app-release.aab`
+
+---
+
+### 🍎 **IPA**
+
+**Full form:** **iOS App Store Package** *(commonly called iOS App Archive)*
+➡️ It is the app file format used to install apps on **iOS** devices (iPhone/iPad).
+
+Example: `app.ipa`
+
+---
+
+### 🔍 Quick Comparison
+
+| Format | Platform | Purpose                       |
+| ------ | -------- | ----------------------------- |
+| APK    | Android  | Install app directly          |
+| AAB    | Android  | Upload to Play Store          |
+| IPA    | iOS      | Install / distribute iOS apps |
+
+---
+
+If you want, I can also explain:
+
+* APK vs AAB difference
+* How to generate IPA / APK / AAB in Flutter
+* Can IPA or APK be reverse-engineered?

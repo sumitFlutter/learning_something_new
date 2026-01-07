@@ -1,0 +1,99 @@
+Here’s a clear, IT-industry–focused explanation 👇
+
+---
+
+## 1️⃣ What is a **Notice Period** in an IT company?
+
+A **notice period** is the time an employee or employer must give **in advance** before ending the employment.
+
+In IT companies, it’s mentioned in:
+
+* Offer letter
+* Appointment letter
+* Employment contract
+
+### Typical notice periods in IT:
+
+* **15 days** – rare (startups)
+* **30 days (1 month)** – common
+* **60 days (2 months)**
+* **90 days (3 months)** – very common in Indian IT companies
+
+📌 Notice period applies when:
+
+* Employee resigns
+* Company terminates employment (except immediate termination cases)
+
+---
+
+## 2️⃣ Is an employee **eligible for salary during the notice period**?
+
+✅ **YES**, salary **is applicable** during the notice period **if the employee is working**.
+
+### Different scenarios explained:
+
+#### 🔹 Case 1: Employee works during notice period
+
+* ✔ Full salary is paid
+* ✔ PF, tax, other deductions apply normally
+* ✔ Considered active employment
+
+#### 🔹 Case 2: Company asks employee not to work (Notice Pay / Garden Leave)
+
+* ✔ Salary must still be paid
+* ❌ Employee doesn’t need to work
+* This is called **Garden Leave**
+
+#### 🔹 Case 3: Employee wants to leave early (Buyout / Notice Pay)
+
+* ❌ Employee must **pay salary for remaining notice days**
+* Or salary is **deducted from final settlement**
+
+Example:
+90-day notice, worked only 30 days → pay or deduction for remaining 60 days
+
+#### 🔹 Case 4: Immediate termination for misconduct
+
+* ❌ Salary may **not** be paid for notice period
+* Depends on company policy and seriousness of misconduct
+
+---
+
+## 3️⃣ Is notice period salary legally mandatory in India?
+
+✔ Yes, **if mentioned in the appointment letter**
+✔ Covered under:
+
+* Indian Contract Act
+* Shops & Establishment Act (state-wise)
+
+📌 If the company **forces notice period but doesn’t pay salary**, it can be challenged legally.
+
+---
+
+## 4️⃣ Important IT-industry facts
+
+* Companies **cannot legally hold experience letter** if notice obligations are fulfilled
+* Forced unpaid notice period is **illegal**
+* Buyout clauses must be **clearly written** in the offer letter
+
+---
+
+## 5️⃣ Simple summary
+
+| Situation                | Salary Paid? |
+| ------------------------ | ------------ |
+| Works notice period      | ✅ Yes        |
+| Company releases early   | ✅ Yes        |
+| Employee buys out notice | ❌ No         |
+| Immediate termination    | ❌ Depends    |
+
+---
+
+If you want, tell me:
+
+* Are **you resigning or terminated**?
+* What is your **notice period duration**?
+* Country (India or other)?
+
+I can give you **exact guidance** for your case.
