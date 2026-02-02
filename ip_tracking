@@ -1,0 +1,99 @@
+**Short answer:**
+👉 **NO — a new JKS (keystore) alone does NOT hide your identity from Google Play.**
+
+---
+
+## How Google Play actually tracks identity
+
+Google **does NOT rely on JKS** to identify developers.
+
+A JKS only:
+
+* Signs the **APK/AAB**
+* Proves app update authenticity
+* Links **app versions**, not **people**
+
+Changing JKS = ❌ **does not reset identity**
+
+---
+
+## What Google *does* track (much stronger)
+
+### 1️⃣ Developer identity
+
+* Google account (email)
+* Personal identity (Individual account)
+* Phone number & recovery email
+* 2FA history
+
+### 2️⃣ Account & ecosystem links
+
+* AdMob
+* Firebase
+* Analytics
+* Google Cloud
+* Play Console history
+
+### 3️⃣ Device & access patterns
+
+* Devices used to log in
+* Google Play Services IDs
+* Login behavior patterns
+
+### 4️⃣ App similarity signals
+
+* Code structure
+* UI/UX layout
+* Assets, strings, logic
+* Package behavior
+
+### 5️⃣ Network & payment signals
+
+* IP history
+* Payment profile
+* Tax info
+
+---
+
+## What JKS *is* used for
+
+| Purpose                       | Used for |
+| ----------------------------- | -------- |
+| App update verification       | ✅        |
+| App ownership continuity      | ✅        |
+| Developer identity tracking   | ❌        |
+| Account association detection | ❌        |
+
+---
+
+## Critical warning (important)
+
+After an **Individual account termination**:
+
+> Any attempt to use **new JKS + new package name**
+> is considered **policy circumvention**.
+
+This can:
+
+* Auto-terminate new accounts
+* Kill any chance of appeal
+* Harm other linked accounts
+
+---
+
+## Final honest advice
+
+If your account is already **terminated**:
+
+* New JKS ❌
+* New email ❌
+* New device ❌
+
+👉 **Only appeal can help**, not technical changes.
+
+If you want, tell me:
+
+* Was the termination **before or after** app submission?
+* Was it due to **association or direct violation**?
+
+I’ll guide you safely.
