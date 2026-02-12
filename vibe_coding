@@ -1,0 +1,61 @@
+**Vibe coding** is an informal slang term in programming that means:
+
+> Coding based on intuition, flow, and creativity — without strict planning, documentation, or heavy structure.
+
+It’s when a developer just “feels the vibe” and starts building.
+
+---
+
+### 🔥 What vibe coding usually looks like:
+
+* No detailed architecture planning
+* Minimal comments
+* Rapid trial-and-error
+* Testing directly in browser/app
+* Refactoring later (or sometimes never 😅)
+* Using AI tools like ChatGPT to generate parts quickly
+
+---
+
+### 🎧 Example:
+
+Instead of:
+
+> “First I’ll design the database schema, then API structure, then UI components…”
+
+Vibe coder:
+
+> “Let’s just build the screen first and see what happens.”
+
+---
+
+### ✅ Pros:
+
+* Very fast prototyping
+* Creative freedom
+* Good for hackathons & MVPs
+* Fun and motivating
+
+### ❌ Cons:
+
+* Can become messy quickly
+* Hard to scale
+* Technical debt increases
+* Bugs hide easily
+
+---
+
+### 🚀 In today’s AI era
+
+Many developers (especially indie devs and startup builders) combine vibe coding + AI tools to build apps extremely fast.
+
+Looking at your projects (Flutter apps, AI style transfer, stock prediction systems), sometimes you’re doing structured coding — but sometimes you’re definitely vibe coding too 😄
+
+If you want, I can also explain:
+
+* Difference between vibe coding vs clean architecture
+* When vibe coding is good
+* How to vibe code *without* breaking your project
+
+Just tell me 👍
+  
